@@ -10,7 +10,10 @@ Neste projeto, você deverá utilizar os seguintes componentes conectados à pla
 ## Funcionamento
 
 1 - O LED vermelho (RGB) pisca 5 vezes por segundo;
+
 2 - Ao pressionar o botão A, é incrementa um valor (de 0 a 9) no contador exibido na matriz de LEDs;
+
 3 - Ao pressionar o botão B, é decrementa um valor no contador exibido na matriz de LEDs;
+
 4 - O LED vermelho é interrompido momentaneamente toda vez que o botão A ou B são pressionados.
 
