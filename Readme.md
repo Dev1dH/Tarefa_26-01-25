@@ -1,5 +1,7 @@
 # Tarefa 1 - Aula síncrona 27/01
 
+Vídeo da demonstração no youtube: https://youtu.be/c0H_lbiweCc
+
 ## Descrição do Projeto:
 Neste projeto, foram utilizados os seguintes componentes conectados à placa BitDogLab:
 • Matriz 5x5 de LEDs (endereçáveis) WS2812, conectada à GPIO 7.
