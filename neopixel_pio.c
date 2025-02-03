@@ -421,4 +421,3 @@ void gpio_irq_handler(uint gpio, uint32_t events)
   sleep_ms(50);
   gpio_put(LED_PIN, !gpio_get(LED_PIN)); // Alterna o estado
 }
-
