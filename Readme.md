@@ -20,5 +20,4 @@ Neste projeto, foram utilizados os seguintes componentes conectados à placa Bit
 
 3 - Ao pressionar o botão B, é decrementa um valor no contador exibido na matriz de LEDs;
 
-4 - O LED vermelho é interrompido momentaneamente toda vez que o botão A ou B são pressionados.
-
+4 - O LED vermelho continua piscando continuamente 5 vezes por segundo enquanto os botões são pressionados.
